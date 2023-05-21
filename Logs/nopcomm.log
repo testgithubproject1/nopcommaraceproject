@@ -1,0 +1,42 @@
+2023-05-19 15:14:52,539 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 19 : test_login is started
+2023-05-19 15:14:52,540 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 21 : opening browser
+2023-05-19 15:16:16,604 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 19 : test_login is started
+2023-05-19 15:16:16,606 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 21 : opening browser
+2023-05-19 15:29:35,022 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 19 : test_login is started
+2023-05-19 15:29:35,022 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 21 : opening browser
+2023-05-19 15:34:44,323 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 21 : test_login is started
+2023-05-19 15:34:44,324 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 23 : opening browser
+2023-05-19 15:34:59,659 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 26 : go to url--->https://admin-demo.nopcommerce.com/
+2023-05-19 15:36:11,817 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 21 : test_login is started
+2023-05-19 15:36:11,817 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 23 : opening browser
+2023-05-19 15:36:16,271 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 26 : go to url--->https://admin-demo.nopcommerce.com/
+2023-05-19 16:00:57,827 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 21 : test_login is started
+2023-05-19 16:00:57,827 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 23 : opening browser
+2023-05-19 16:00:58,284 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 26 : go to url--->https://admin-demo.nopcommerce.com/
+2023-05-19 20:39:35,066 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 22 : test_login is started
+2023-05-19 20:39:35,066 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 24 : opening browser
+2023-05-19 20:39:36,514 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 27 : go to url--->https://admin-demo.nopcommerce.com/
+2023-05-19 20:39:36,667 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 29 : Entering Emailadmin@yourstore.com
+2023-05-19 20:39:36,767 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 31 : Entering passwordadmin
+2023-05-19 20:40:00,551 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 34 : Clicking Login
+2023-05-19 20:40:00,586 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 38 : Page_title--->Dashboard / nopCommerce administration
+2023-05-19 20:40:00,726 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 41 : test_login is Passed
+2023-05-19 20:40:06,547 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 43 : click Logout button
+2023-05-19 20:44:32,070 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 22 : test_login is started
+2023-05-19 20:44:32,070 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 24 : opening browser
+2023-05-19 20:44:36,171 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 27 : go to url--->https://admin-demo.nopcommerce.com/
+2023-05-19 20:44:36,310 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 29 : Entering Emailadmin@yourstore.com
+2023-05-19 20:44:36,392 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 31 : Entering passwordadmin
+2023-05-19 20:44:56,659 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 34 : Clicking Login
+2023-05-19 20:44:56,685 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 38 : Page_title--->Dashboard / nopCommerce administration
+2023-05-19 20:44:56,833 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 41 : test_login is Passed
+2023-05-19 20:45:42,989 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 43 : click Logout button
+2023-05-21 13:08:15,324 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 22 : test_login is started
+2023-05-21 13:08:15,325 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 24 : opening browser
+2023-05-21 13:08:20,178 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 27 : go to url--->https://admin-demo.nopcommerce.com/
+2023-05-21 13:08:20,377 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 29 : Entering Emailadmin@yourstore.com
+2023-05-21 13:08:20,494 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 31 : Entering passwordadmin
+2023-05-21 13:08:29,520 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 34 : Clicking Login
+2023-05-21 13:08:29,542 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 38 : Page_title--->Dashboard / nopCommerce administration
+2023-05-21 13:08:29,658 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 41 : test_login is Passed
+2023-05-21 13:08:33,593 : INFO : C:\Users\Jyoti\PycharmProjects\pytest_nopcommProject\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_login : 43 : click Logout button
